@@ -14,4 +14,5 @@
 ## Deploy
 
 * [Netlify](deploy/netlify.md)
+* [Angular CLI](angular-cli.md)
 
