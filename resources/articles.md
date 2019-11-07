@@ -14,5 +14,7 @@ You can add guards to modules' constructors...?
 
 {% embed url="https://medium.com/@michael.karen/angular-library-tutorial-46a7e1b129b3" %}
 
+{% embed url="https://medium.com/@motcowley/angular-folder-structure-d1809be95542" %}
+
 
 
