@@ -15,4 +15,9 @@
 
 * [Netlify](deploy/netlify.md)
 * [Angular CLI](angular-cli.md)
+* [Style Guide](style-guide.md)
+
+## Resources
+
+* [Articles](resources/articles.md)
 
