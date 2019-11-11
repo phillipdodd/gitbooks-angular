@@ -29,3 +29,7 @@
 
 * [Add Bootstrap CSS via NPM](how-to/add-bootstrap-css-via-npm.md)
 
+## Component Libraries
+
+* [ng-bootstrap](component-libraries/ng-bootstrap.md)
+

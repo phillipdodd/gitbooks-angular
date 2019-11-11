@@ -1,8 +1,12 @@
 # Add Bootstrap CSS via NPM
 
+{% hint style="danger" %}
+**Note:** It is recommended to use the [ng-bootstrap](https://ng-bootstrap.github.io/#/home) library if one is to use Bootstrap due to Angular and Bootstrap 4 having some incompatibilities. \(Thanks Kevin!\)
+{% endhint %}
+
 ## 1. Add Dependency via NPM
 
-Using the **terminal** in the **root folder** of your Angular project, run `npm install --save bootstrap` .
+Using the **terminal** in the **root folder** of your Angular project, run `npm install bootstrap` .
 
 ## 2. Add Style to angular.json
 
