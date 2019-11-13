@@ -21,8 +21,6 @@
 
 * [Articles](resources/articles.md)
 
-## Forms
-
 ## How To
 
 * [Add Bootstrap CSS via NPM](how-to/add-bootstrap-css-via-npm.md)
