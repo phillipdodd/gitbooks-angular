@@ -40,7 +40,7 @@ Elements begin with the class **ng-pristine** until they are modified for the fi
 
 Elements will also have either the **ng-valid** class or the **ng-invalid** class depending on whether or not the element currently has a valid value according to the **HTML.**
 
-![](../.gitbook/assets/image.png)
+![](.gitbook/assets/image.png)
 
 In this Pluralsight video screenshot, we see a **template reference variable** being assigned as an attribute to this `<input>` element. This allows us to access it's properties as though it were an **object** using **interpolation brackets**: `{{ ... }}`. 
 
