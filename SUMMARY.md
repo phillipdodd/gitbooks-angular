@@ -14,16 +14,14 @@
 ## Deploy
 
 * [Netlify](deploy/netlify.md)
-* [Angular CLI](angular-cli.md)
-* [Style Guide](style-guide.md)
+* [Angular CLI](deploy/angular-cli.md)
+* [Style Guide](deploy/style-guide.md)
 
 ## Resources
 
 * [Articles](resources/articles.md)
 
 ## Forms
-
-* [FormsModule](forms/untitled.md)
 
 ## How To
 
