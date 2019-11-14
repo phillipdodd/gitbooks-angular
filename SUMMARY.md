@@ -20,6 +20,7 @@
 ## Resources
 
 * [Articles](resources/articles.md)
+* [3rd Party Components](resources/3rd-party-components.md)
 
 ## Forms
 
@@ -31,10 +32,6 @@
 
 * [Add Bootstrap CSS via NPM](how-to/add-bootstrap-css-via-npm.md)
 
-## Component Libraries
-
-* [ng-bootstrap](component-libraries/ng-bootstrap.md)
-
 ## Testing
 
 * [HTTP Posting](http-posting/README.md)
@@ -45,4 +42,9 @@
   * [Mocking](http-posting/mocking.md)
 * [Tools](tools.md)
 * [First Unit Test](first-unit-test.md)
+
+## Architecture
+
+* [Considerations](architecture/considerations.md)
+* [Planning Template](architecture/planning-template.md)
 
