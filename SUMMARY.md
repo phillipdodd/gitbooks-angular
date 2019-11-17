@@ -34,14 +34,14 @@
 
 ## Testing
 
-* [HTTP Posting](http-posting/README.md)
-  * [Overview](http-posting/overview.md)
-  * [Isolated Tests](http-posting/unit-isolated-tests.md)
-  * [Integration / Functional Tests](http-posting/integration-functional-tests.md)
-  * [End to End Tests](http-posting/end-to-end-tests.md)
-  * [Mocking](http-posting/mocking.md)
-* [Tools](tools.md)
-* [First Unit Test](first-unit-test.md)
+* [Overview](testing/overview.md)
+* [Tools](testing/tools.md)
+* [Isolated Tests](testing/unit-isolated-tests.md)
+* [End to End Tests](testing/end-to-end-tests.md)
+* [Integration / Functional Tests](testing/integration-functional-tests.md)
+* [Mocking](testing/mocking.md)
+* [Jasmine Basics](testing/first-unit-test.md)
+* [Writing Good Unit Tests](testing/writing-good-unit-tests.md)
 
 ## Architecture
 

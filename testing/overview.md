@@ -1,20 +1,20 @@
 # Overview
 
-Angular has **three** main types of tests:
+## Types of Unit Tests
 
-## Unit / Isolated Tests
+### Unit / Isolated Tests
 
 {% page-ref page="unit-isolated-tests.md" %}
 
 For testing a **single "unit" of code**, usually referring to a **single class.**
 
-## Integrated / Functional Tests
+### Integrated / Functional Tests
 
 {% page-ref page="integration-functional-tests.md" %}
 
 For testing **more than a unit** but **less than the entire application.** Generally used to test if **one part of the application** works with **another part** of the application.
 
-## End to End Tests
+### End to End Tests
 
 {% page-ref page="end-to-end-tests.md" %}
 
